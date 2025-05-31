@@ -4,13 +4,13 @@
 南京大学2025年春季课程“人工智能+产品：创意、设计与开发实践”的小组课程作业。 
 This is a group class project for the Spring 2025 course "AI + Products: Creativity, Design and Development Practices" at Nanjing University.  
 
-@shenzhenyu-c、@fishoook、@ChestnutZhao（依中文姓氏拼音排序）对本人工智能工具做出了同等贡献。  
+@shenzhenyu-c、@fishoook、@ChestnutZhao（依中文姓氏拼音排序）对本人工智能工具做出了同等贡献。 
 @shenzhenyu-c, @fishoook and @ChestnutZhao (Sorted by phonetic initials of last names in Chinese) made equal contributions for this AI tool.  
 
 本工具原样提供，不负责任。 
 This tool is presented AS IS, and the authors SHALL NOT BE HELD LIABLE. 
 
-本人工智能工具旨在为您输入的论文摘要寻找在主题和水平方面合适的期刊。本人工智能工具适用于各学科论文。目前，本人工智能工具对高水平的期刊运行更好。 
+本人工智能工具旨在为您输入的论文摘要寻找在主题和水平方面合适的期刊。本人工智能工具适用于各学科论文。目前，本人工智能工具对高水平的期刊运行更好。  
 This AI tool aims at matching your scientific paper abstract with suitable journals, both subject- and level- wise. This AI tool works for scientific papers of all subjects. Currently, this AI tool works the best for high-level papers. 
  
 本工具的工作流程为： 
