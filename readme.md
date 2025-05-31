@@ -1,5 +1,5 @@
-#AI期刊投递推荐助手
-#AI Journal Recommender
+#AI期刊投递推荐助手 
+#AI Journal Recommender 
 
 南京大学2025年春季课程“人工智能+产品：创意、设计与开发实践”的小组课程作业。 
 This is a group class project for the Spring 2025 course "AI + Products: Creativity, Design and Development Practices" at Nanjing University.  
