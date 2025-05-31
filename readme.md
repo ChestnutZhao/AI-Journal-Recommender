@@ -9,7 +9,7 @@ This is a group class project for the Spring 2025 course "AI + Products: Creativ
 本工具**原样提供，不负责任**。   
 This tool is presented **AS IS**, and the authors **SHALL NOT BE HELD LIABLE**.   
 
-本人工智能工具旨在为您输入的论文摘要寻找**在主题和水平方面合适**的期刊。本人工智能工具适用于**各学科**论文。目前，本人工智能工具对**高水平**的期刊运行更好。    
+本人工智能工具旨在为您输入的论文摘要寻找**在主题和水平方面合适**的期刊。本人工智能工具适用于**各学科**论文。目前，本人工智能工具对**高水平**的论文运行更好。    
 This AI tool aims at matching your scientific paper abstract with **suitable journals, both subject- and level- wise**. This AI tool works for scientific papers of **all subjects**. Currently, this AI tool works the best for **high-level papers**.   
  
 本工具的工作流程为：   
