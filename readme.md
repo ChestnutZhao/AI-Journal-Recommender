@@ -3,8 +3,8 @@
 南京大学2025年春季课程“人工智能+产品：创意、设计与开发实践”的小组课程作业。   
 This is a group class project for the Spring 2025 course "AI + Products: Creativity, Design and Development Practices" at Nanjing University.    
 
-@shenzhenyu-c、@fishoook、@ChestnutZhao（依中文姓氏拼音排序）对本人工智能工具做出了同等贡献。   
-@shenzhenyu-c, @fishoook and @ChestnutZhao (Sorted by phonetic initials of last names in Chinese) made equal contributions for this AI tool.    
+@shenzhenyu-c、@fishoook、@ChestnutZhao（依中文姓氏拼音排序）对本人工智能工具做出了**同等贡献**。   
+@shenzhenyu-c, @fishoook and @ChestnutZhao (Sorted by phonetic initials of last names in Chinese) made **equal contributions** for this AI tool.    
 
 本工具**原样提供，不负责任**。   
 This tool is presented **AS IS**, and the authors **SHALL NOT BE HELD LIABLE**.   
@@ -22,7 +22,7 @@ The working procedure of this tool is:
 ③Match the abstracts found at OpenAlex with the original abstract using another local model, and Rank according to similarity;   
 ④添加关于文章所在期刊影响力的元数据；   
 ④Add the metadata about the influence of the journals of the papers;   
-⑤用Deepseek V3，将十(10)篇摘要**及其他元数据****同时**进行第一次评分，**原位生成提示词**；   
+⑤用Deepseek V3，将十(10)篇摘要**及其他元数据同时**进行第一次评分，**原位生成提示词**；   
 ⑤First Rating based on TEN(10) abstracts **and other metadata** (**simultaneous input**) using Deepseek V3, **in situ generating prompt**;   
 ⑥将第一次评分的结果作为系统提示词，对所有摘要**依次**进行第二次评分，**不包括元数据**；   
 ⑥Second Rating based on all abstracts **without metadata** (**one-by-one input**) using Deepseek V3, with the first rating results as system prompt.   
